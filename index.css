@@ -1,0 +1,15 @@
+input {
+    font-family: 'Varela Round', sans-serif;
+}
+
+div {
+    margin-left: -20px;
+}
+
+h3 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+#log {
+    width: 162px;
+}
